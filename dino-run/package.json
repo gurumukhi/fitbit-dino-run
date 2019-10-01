@@ -1,0 +1,23 @@
+{
+  "fitbit": {
+    "appUUID": "8c9eea6a-a8ee-43c8-bf6d-1571b0f5e035",
+    "appType": "app",
+    "appDisplayName": "Dino Run",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#607d8b",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "higgs",
+      "meson"
+    ],
+    "i18n": {
+      "en": {
+        "name": "Dino Run"
+      }
+    }
+  },
+  "devDependencies": {
+    "@fitbit/sdk": "~3.0.0",
+    "@fitbit/sdk-cli": "^1.0.0"
+  }
+}

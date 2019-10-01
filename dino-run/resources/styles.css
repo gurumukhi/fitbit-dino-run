@@ -1,0 +1,52 @@
+#title {
+  x: 50%;
+  y: 30;
+  fill: "indigo";
+  text-anchor: "middle";
+  font-family: "Colfax-Black";
+}
+
+#score {
+  x: 50%;
+  y: 70;
+  fill: "orange";
+  text-anchor: "middle";
+  font-family: "Colfax-Black";
+  text-length: 8;
+}
+
+#hi {
+  text-anchor: "end";
+  font-size: 24;
+  fill: "blue";
+  x: 90%;
+  y: 70;
+}
+
+#reset {
+  width: 70;
+  height: 70;
+  x: 120;
+  y: 80;
+}
+
+#dino {
+  width: 60;
+  height: 80;
+  x: 20;
+  y: 170;
+}
+
+.obstacle {
+  width: 20;
+  height: 50;
+  x: 150;
+  y: 190;
+}
+
+#obstacle2 {
+  width: 15;
+  height: 40;
+  x: 290;
+  y: 200;
+}

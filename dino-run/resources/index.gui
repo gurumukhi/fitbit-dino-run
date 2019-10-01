@@ -1,0 +1,9 @@
+<svg viewport-fill="white">
+  <text id="title">DINO RUN</text>
+  <text id="score">0</text>
+  <text id="hi">HIGH: 0</text>
+  <image id="reset" href="reset.png" pointer-events="visible"/>
+	<image id="dino" href="dino1.png" pointer-events="visible" />
+	<image id="obstacle1" class="obstacle" href="cactus.png" />
+	<image id="obstacle2" class="obstacle" href="cactus.png" />
+</svg>
